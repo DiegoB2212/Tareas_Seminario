@@ -1,0 +1,134 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Contenedor del chat */
+#chat-container {
+    width: 80%;
+    max-width: 100%;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Área donde aparecen los mensajes */
+#chat-box {
+    height: 400px;
+    overflow-y: auto;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Mensajes */
+.message {
+    max-width: 80%;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+    word-wrap: break-word;
+}
+
+/* Mensaje del usuario */
+.message.user {
+    align-self: flex-end;
+    background-color: #007bff;
+    color: white;
+    border-top-right-radius: 0;
+}
+
+/* Mensaje del chatbot */
+.message.bot {
+    align-self: flex-start;
+    background-color: #e9ecef;
+    color: black;
+    border-top-left-radius: 0;
+}
+
+/* Entrada de chat */
+#chat-input {
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+}
+
+#messageInput {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+#sendButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+#sendButton:hover {
+    background-color: #0056b3;
+}
+
+.chat {
+    padding: 15px;
+    /*width: 50%;*/
+    border-radius: 50px;
+    word-wrap: break-word;
+}
+
+.chat_message {
+    background-color: lightcyan;
+    align-self: flex-start;
+}
+
+.user_message {
+    background-color: lightgray;
+    float: right;
+    align-self: flex-end;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center; /* Alinea verticalmente */
+    gap: 50px; /* Espacio entre la imagen y el texto */
+}
+
+#header_logo {
+    width: 60px;
+    height: 60px;
+}
