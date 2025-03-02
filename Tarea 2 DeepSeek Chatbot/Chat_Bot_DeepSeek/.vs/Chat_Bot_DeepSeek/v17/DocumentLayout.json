@@ -1,12 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Desktop\\Tarea 2 DeepSeek Chatbot\\Chat_Bot_DeepSeek\\",
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea 2 DeepSeek Chatbot\\Chat_Bot_DeepSeek\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

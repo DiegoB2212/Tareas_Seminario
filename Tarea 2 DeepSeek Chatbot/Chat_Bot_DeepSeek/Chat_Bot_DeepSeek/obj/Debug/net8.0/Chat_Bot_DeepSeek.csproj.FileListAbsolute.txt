@@ -37,3 +37,44 @@ C:\Users\DIEGO\Desktop\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Serv
 C:\Users\DIEGO\Desktop\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Domain.pdb
 C:\Users\DIEGO\Desktop\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Service.pdb
 C:\Users\DIEGO\Desktop\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot.52AE75D2.Up2Date
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.dll
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\refint\Chat_Bot_DeepSeek.dll
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.pdb
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\appsettings.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.staticwebassets.endpoints.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.staticwebassets.runtime.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.exe
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.deps.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.runtimeconfig.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.dll
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Chat_Bot_DeepSeek.pdb
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Domain.dll
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Service.dll
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Domain.pdb
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\bin\Debug\net8.0\Service.pdb
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.RazorAssemblyInfo.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.RazorAssemblyInfo.cs
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.sourcelink.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\scopedcss\bundle\Chat_Bot_DeepSeek.styles.css
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\scopedcss\projectbundle\Chat_Bot_DeepSeek.bundle.scp.css
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets\msbuild.Chat_Bot_DeepSeek.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets\msbuild.Chat_Bot_DeepSeek.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets\msbuild.build.Chat_Bot_DeepSeek.props
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chat_Bot_DeepSeek.props
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chat_Bot_DeepSeek.props
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot.52AE75D2.Up2Date
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\Chat_Bot_DeepSeek.genruntimeconfig.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\ref\Chat_Bot_DeepSeek.dll
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea 2 DeepSeek Chatbot\Chat_Bot_DeepSeek\Chat_Bot_DeepSeek\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
