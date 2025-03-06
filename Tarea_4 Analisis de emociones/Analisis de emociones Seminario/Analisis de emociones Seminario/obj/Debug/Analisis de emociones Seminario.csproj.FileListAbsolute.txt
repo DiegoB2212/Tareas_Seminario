@@ -1,0 +1,10 @@
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis de emociones Seminario.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis_de_emociones_Seminario.Form1.resources
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis_de_emociones_Seminario.Properties.Resources.resources
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis de emociones Seminario.csproj.GenerateResource.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis de emociones Seminario.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\bin\Debug\Analisis de emociones Seminario.exe.config
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\bin\Debug\Analisis de emociones Seminario.exe
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\bin\Debug\Analisis de emociones Seminario.pdb
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis de emociones Seminario.exe
+C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\obj\Debug\Analisis de emociones Seminario.pdb

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|c:\\users\\diego\\desktop\\tareas_seminario\\tarea_4 analisis de emociones\\analisis de emociones seminario\\analisis de emociones seminario\\feel_analizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|solutionrelative:analisis de emociones seminario\\feel_analizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|c:\\users\\diego\\desktop\\tareas_seminario\\tarea_4 analisis de emociones\\analisis de emociones seminario\\analisis de emociones seminario\\sentimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|solutionrelative:analisis de emociones seminario\\sentimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|c:\\users\\diego\\desktop\\tareas_seminario\\tarea_4 analisis de emociones\\analisis de emociones seminario\\analisis de emociones seminario\\prediccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|solutionrelative:analisis de emociones seminario\\prediccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|c:\\users\\diego\\desktop\\tareas_seminario\\tarea_4 analisis de emociones\\analisis de emociones seminario\\analisis de emociones seminario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|solutionrelative:analisis de emociones seminario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|c:\\users\\diego\\desktop\\tareas_seminario\\tarea_4 analisis de emociones\\analisis de emociones seminario\\analisis de emociones seminario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9102FB-1802-4D9C-BC7F-B12452D105CF}|Analisis de emociones Seminario\\Analisis de emociones Seminario.csproj|solutionrelative:analisis de emociones seminario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +38,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sentimiento.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Sentimiento.cs",
+              "RelativeDocumentMoniker": "Analisis de emociones Seminario\\Sentimiento.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Sentimiento.cs",
+              "RelativeToolTip": "Analisis de emociones Seminario\\Sentimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:24:29.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prediccion.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Prediccion.cs",
+              "RelativeDocumentMoniker": "Analisis de emociones Seminario\\Prediccion.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Prediccion.cs",
+              "RelativeToolTip": "Analisis de emociones Seminario\\Prediccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:10:54.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Feel_Analizer.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Feel_Analizer.cs",
+              "RelativeDocumentMoniker": "Analisis de emociones Seminario\\Feel_Analizer.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Feel_Analizer.cs",
+              "RelativeToolTip": "Analisis de emociones Seminario\\Feel_Analizer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:27:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Form1.cs",
+              "RelativeDocumentMoniker": "Analisis de emociones Seminario\\Form1.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Form1.cs",
+              "RelativeToolTip": "Analisis de emociones Seminario\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:09:49.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DIEGO\\Desktop\\Tareas_Seminario\\Tarea_4 Analisis de emociones\\Analisis de emociones Seminario\\Analisis de emociones Seminario\\Form1.cs",
               "RelativeDocumentMoniker": "Analisis de emociones Seminario\\Form1.cs",
