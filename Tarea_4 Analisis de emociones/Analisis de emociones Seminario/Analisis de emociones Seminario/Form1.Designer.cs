@@ -31,6 +31,9 @@
             this.Message_Input = new System.Windows.Forms.TextBox();
             this.Send_Button = new System.Windows.Forms.Button();
             this.Combo_Reponse = new System.Windows.Forms.GroupBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Combo_Reponse.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // Message_Input
@@ -56,6 +59,7 @@
             // 
             // Combo_Reponse
             // 
+            this.Combo_Reponse.Controls.Add(this.pictureBox1);
             this.Combo_Reponse.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Combo_Reponse.Location = new System.Drawing.Point(25, 28);
             this.Combo_Reponse.Name = "Combo_Reponse";
@@ -63,6 +67,17 @@
             this.Combo_Reponse.TabIndex = 2;
             this.Combo_Reponse.TabStop = false;
             this.Combo_Reponse.Text = "Response";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.Image = global::Analisis_de_emociones_Seminario.Properties.Resources.neutral;
+            this.pictureBox1.Location = new System.Drawing.Point(57, 38);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(422, 358);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
@@ -75,6 +90,8 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Analisis de emociones";
+            this.Combo_Reponse.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -85,6 +102,7 @@
         private System.Windows.Forms.TextBox Message_Input;
         private System.Windows.Forms.Button Send_Button;
         private System.Windows.Forms.GroupBox Combo_Reponse;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

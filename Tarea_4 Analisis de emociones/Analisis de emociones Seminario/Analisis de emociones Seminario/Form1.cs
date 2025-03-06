@@ -36,7 +36,12 @@ namespace Analisis_de_emociones_Seminario
                     return;
                 }
                 rsp = fl_analizer.Run(msg);
-                MessageBox.Show(rsp);
+                switch (rsp)
+                {
+                    case "positivo": pictureBox1.Image = Properties.Resources.positivo; break;
+                    case "negativo": pictureBox1.Image = Properties.Resources.triste; break;
+                    default: pictureBox1.Image = Properties.Resources.neutral; break;
+                }
             }
         }
     }

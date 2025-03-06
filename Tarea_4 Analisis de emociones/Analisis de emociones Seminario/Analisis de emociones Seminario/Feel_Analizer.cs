@@ -19,19 +19,13 @@ namespace Analisis_de_emociones_Seminario
        
         public string Run(string texto)
         {
-            // 📂 2️⃣ Cargar y entrenar modelo ML.NET
             EntrenarModeloML();
+            Prediccion resultadoML = PredecirConML(texto);
 
-            // 🎯 4️⃣ Obtener predicción ML.NET
-            string resultadoML = PredecirConML(texto);
-
-            // 📖 5️⃣ Obtener predicción por Diccionario
             string resultadoDiccionario = PredecirConDiccionario(texto);
 
-            // ⚖️ 6️⃣ Obtener predicción combinada
-            string resultadoFinal = CombinarPredicciones(resultadoML, resultadoDiccionario);
+            string resultadoFinal = CombinarPredicciones(resultadoML.PredictedLabel, resultadoDiccionario, resultadoML.Score);
 
-            // 📝 7️⃣ Mostrar resultados
             return resultadoFinal;
         }
 
@@ -50,11 +44,11 @@ namespace Analisis_de_emociones_Seminario
             predictor = mlContext.Model.CreatePredictionEngine<Sentimiento, Prediccion>(modelo);
         }
 
-        static string PredecirConML(string texto)
+        static Prediccion PredecirConML(string texto)
         {
             var entrada = new Sentimiento { Texto = texto };
             var resultado = predictor.Predict(entrada);
-            return resultado.PredictedLabel;
+            return resultado;
         }
 
         static string PredecirConDiccionario(string texto)
@@ -68,11 +62,35 @@ namespace Analisis_de_emociones_Seminario
             return "desconocido";
         }
 
-        static string CombinarPredicciones(string ml, string diccionario)
+        static string CombinarPredicciones(string ml, string diccionario, float[] score)
         {
-            if (diccionario != "desconocido" && diccionario != ml)
-                return diccionario;  // Ajuste basado en diccionario si hay diferencia
-            return ml;  // Si ML y diccionario coinciden o el diccionario no tiene coincidencias, usa ML
+            float confianzaPositivo = score[0];
+            float confianzaNegativo = score[1];
+            float confianzaNeutral = score[2];
+
+            if (ml == diccionario)
+                return ml;
+
+            if ((ml == "positivo" && confianzaPositivo < 0.50) ||
+                (ml == "negativo" && confianzaNegativo < 0.50) ||
+                (ml == "neutral" && confianzaNeutral < 0.50))
+            {
+                return diccionario;
+            }
+
+            if (ml == "neutral" && (diccionario == "positivo" || diccionario == "negativo"))
+            {
+                return diccionario;
+            }
+
+            if ((ml == "positivo" && confianzaPositivo > 0.80) ||
+                (ml == "negativo" && confianzaNegativo > 0.80) ||
+                (ml == "neutral" && confianzaNeutral > 0.80))
+            {
+                return ml;
+            }
+
+            return diccionario != "desconocido" ? diccionario : ml;
         }
     }
 }
