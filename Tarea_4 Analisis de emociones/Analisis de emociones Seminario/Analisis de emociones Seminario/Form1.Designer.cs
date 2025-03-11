@@ -56,6 +56,7 @@
             this.Send_Button.TabIndex = 1;
             this.Send_Button.Text = "SEND";
             this.Send_Button.UseVisualStyleBackColor = true;
+            this.Send_Button.Click += new System.EventHandler(this.Send_Button_Click);
             // 
             // Combo_Reponse
             // 

@@ -35,6 +35,7 @@ namespace Analisis_de_emociones_Seminario
                     );
                     return;
                 }
+
                 rsp = fl_analizer.Run(msg);
                 switch (rsp)
                 {
@@ -42,6 +43,31 @@ namespace Analisis_de_emociones_Seminario
                     case "negativo": pictureBox1.Image = Properties.Resources.triste; break;
                     default: pictureBox1.Image = Properties.Resources.neutral; break;
                 }
+            }
+        }
+
+        private void Send_Button_Click(object sender, EventArgs e)
+        {
+            string msg = Message_Input.Text;
+            string rsp = string.Empty;
+
+            if (msg == null || msg == string.Empty)
+            {
+                MessageBox.Show(
+                    "Casilla de texto vacia, intente de nuevo",
+                    "ERROR",
+                    MessageBoxButtons.AbortRetryIgnore,
+                    MessageBoxIcon.Error
+                );
+                return;
+            }
+
+            rsp = fl_analizer.Run(msg);
+            switch (rsp)
+            {
+                case "positivo": pictureBox1.Image = Properties.Resources.positivo; break;
+                case "negativo": pictureBox1.Image = Properties.Resources.triste; break;
+                default: pictureBox1.Image = Properties.Resources.neutral; break;
             }
         }
     }

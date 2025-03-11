@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net.NetworkInformation;
 using System.Text;
@@ -31,7 +32,9 @@ namespace Analisis_de_emociones_Seminario
 
         static void EntrenarModeloML()
         {
-            string rutaArchivo = @"C:\Users\DIEGO\Desktop\Tareas_Seminario\Tarea_4 Analisis de emociones\Analisis de emociones Seminario\Analisis de emociones Seminario\sentimientos.csv";  // Cambia esta ruta
+            string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+            string rutaArchivo = $"{path}\\sentimientos.csv";  // Cambia esta ruta
+
             IDataView datos = mlContext.Data.LoadFromTextFile<Sentimiento>(
                 rutaArchivo, separatorChar: ',', hasHeader: true);
 
