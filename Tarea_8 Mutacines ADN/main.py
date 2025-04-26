@@ -28,6 +28,7 @@ def main():
     ruta_excel = "mutaciones.xlsx"
 
     try:
+        print("INICIANDO LECTURA DE ARCHIVOS DE MUTACIONES Y ENFEREMDADES")
         secuencia = leer_secuencia_txt(ruta_txt)
         df_mutaciones = cargar_mutaciones_excel(ruta_excel)
         resultados = buscar_mutaciones(secuencia, df_mutaciones)
