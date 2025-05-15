@@ -5,8 +5,8 @@ Descripción breve del proyecto: qué hace, para qué sirve y quién lo desarrol
 ## Tabla de contenidos
 
 - [Computacion cuantica](#Computacion_Cuantica)
-- [Uso](#uso)
-- [Ejemplos](#ejemplos)
+- [Conceptos_Clave](#Conceptos_Clave)
+- [Qiskit](#Qiskit)
 - [Tecnologías](#tecnologías)
 - [Créditos](#créditos)
 - [Licencia](#licencia)
@@ -15,7 +15,7 @@ Descripción breve del proyecto: qué hace, para qué sirve y quién lo desarrol
 
 La computación cuántica es una nueva forma de procesamiento de información que se basa en las leyes de la mecánica cuántica. A diferencia de la computación clásica, que utiliza bits con valores de 0 o 1, en la computación cuántica se utilizan qubits, que pueden estar en una superposición de ambos estados al mismo tiempo.
 
-### Conceptos Clave
+### Conceptos_Clave
 
 - **[Qubit]**: Es la unidad básica de información cuántica. A diferencia del bit clásico, puede estar en una combinación de 0 y 1 al mismo tiempo gracias a la superposición. 
 
@@ -36,6 +36,12 @@ La computación cuántica es una nueva forma de procesamiento de información qu
 - **[Puerta cuantica]**: Son operaciones matemáticas que transforman el estado de los qubits.
 
 *Equivalente a las compuertas lógicas (AND, OR, NOT) en computación clásica.*
+
+## Qiskit
+
+Qiskit es una biblioteca de código abierto desarrollada por IBM para escribir, simular y ejecutar algoritmos cuánticos en computadoras cuánticas reales o simuladores. Su nombre proviene de “Quantum Information Software Kit”.
+
+![Tarea_9%20Presentacion%20Computacion%20Cuantica%20(Qiskit)/Img/Historia.png]
 
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
