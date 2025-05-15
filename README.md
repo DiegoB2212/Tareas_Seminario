@@ -41,7 +41,7 @@ La computación cuántica es una nueva forma de procesamiento de información qu
 
 Qiskit es una biblioteca de código abierto desarrollada por IBM para escribir, simular y ejecutar algoritmos cuánticos en computadoras cuánticas reales o simuladores. Su nombre proviene de “Quantum Information Software Kit”.
 
-![Tarea_9%20Presentacion%20Computacion%20Cuantica%20(Qiskit)/Img/Historia.png]
+[Tarea_9%20Presentacion%20Computacion%20Cuantica%20(Qiskit)/Historia.png]
 
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
