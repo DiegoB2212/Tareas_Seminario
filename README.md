@@ -7,7 +7,7 @@ Descripción breve del proyecto: qué hace, para qué sirve y quién lo desarrol
 - [Computacion cuantica](#Computacion_Cuantica)
 - [Conceptos_Clave](#Conceptos_Clave)
 - [Qiskit](#Qiskit)
-- [Tecnologías](#tecnologías)
+- [Modulos Principales](#Modulos_Principales)
 - [Créditos](#créditos)
 - [Licencia](#licencia)
 
@@ -43,7 +43,35 @@ Qiskit es una biblioteca de código abierto desarrollada por IBM para escribir, 
 
 <img src="Tarea_9 Presentacion Computacion Cuantica (Qiskit)/Img/Historia.png"/>
 
-```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
-pip install -r requirements.txt
+
+# Modulos_Principales
+
+- [Qiskit Terra](#Terra)
+- [Qiskit Aer](#Aer)
+- [Qiskit Providers](#Providers)
+- [Qiskit Visualization](#Visualization)
+- [Metrica de Error](#Error)
+- [Licencia](#licencia)
+
+## Terra
+
+Es el núcleo del framework, donde se construyen y visualizan los circuitos cuánticos.
+
+### Funciones destacadas
+
+**QuantumCircuit**: define un circuito cuántico.
+
+**QuantumCircuit.h(qubit)**: aplica una puerta Hadamard.
+
+**QuantumCircuit.cx(control, target)**: aplica una compuerta CNOT (entre qubits).
+
+```python
+from qiskit import QuantumCircuit
+
+qc = QuantumCircuit(2)
+qc.h(0)            # Superposición en el primer qubit
+qc.cx(0, 1)        # Entrelazamiento con el segundo
+qc.measure_all()   # Medición
+
+qc.draw('mpl')
+
